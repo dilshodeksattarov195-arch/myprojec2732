@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerparse",
+        "uuid": 20541908,
+        "checksum": "38e2t"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
